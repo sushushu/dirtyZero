@@ -16,23 +16,24 @@ All file modifications are done in memory. If something goes wrong or you want t
 | iOS 18.4+ | Not Supported |
 
 # How can I respring after I apply the changes?
-Unfortunately, there isn't an easy way to do this yet. Here are two methods:
+There are 2 methods to manually respring your device. Method 1 is the most reliable, use it if you can.
 
-**Method 1: Display & Text Size**
+**Method 1: Use fancy respring app**
+1. Install [respringapp.ipa](https://github.com/jailbreakdotparty/dirtyZero/releases/download/respringapp/respringapp.ipa).
+2. Try to open the app from the Home Screen.
+3. You should get an instant respring 🔥.
+
+*This method brought to you by [`@nyaathea`](https://x.com/nyaathea). Due to the nature of the method, it is not possible to integrate this directly into the dirtyZero app, hence the seperate IPA.*
+
+**Method 2: Display & Text Size**
 1. Before applying the tweaks, go into Settings > Display & Brightness > Display Zoom
 2. Pick the option that's opposite of the one you're currently using.
 3. After, apply the tweaks.
 4. Go back into Settings > Display & Brightness > Display Zoom
 5. Pick the option that's opposite of the one you're currently using.
 
-**Method 2: Language & Region**
-1. Apply the tweaks.
-2. Go into Settings > General > Language & Region
-3. Click "Add language..."
-4. Choose any language.
-5. A popup will appear asking you to change your primary language. **Please select the language that you were using before.**
-
 
 # Credits
 - [Skadz](https://github.com/skadz108) for making this app.
+- [lunginspector](https://github.com/lunginspector) for the UI and numerous tweaks.
 - Ian Beer of Google Project Zero for discovering and publishing the exploit.
