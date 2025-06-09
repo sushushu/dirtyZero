@@ -263,7 +263,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "";
-				DEVELOPMENT_TEAM = TA2N4LNLT8;
+				DEVELOPMENT_TEAM = V4DF8Q4DJK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = dirtyZero;
@@ -277,7 +277,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.4;
-				PRODUCT_BUNDLE_IDENTIFIER = online.skadz.dirtyZero;
+				PRODUCT_BUNDLE_IDENTIFIER = online.skadz.dirtyZero2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "";
@@ -296,7 +296,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "";
-				DEVELOPMENT_TEAM = TA2N4LNLT8;
+				DEVELOPMENT_TEAM = V4DF8Q4DJK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = dirtyZero;
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.4;
-				PRODUCT_BUNDLE_IDENTIFIER = online.skadz.dirtyZero;
+				PRODUCT_BUNDLE_IDENTIFIER = online.skadz.dirtyZero2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "";
